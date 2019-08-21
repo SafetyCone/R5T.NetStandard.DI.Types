@@ -1,4 +1,4 @@
 R5T.NetStandard.DI.Types - A types library for dependency-injection (DI) functionality.
 
-Goals
+This library is currently has no code, and is the provider of the Microsoft.Extensions.DependencyInjection package version. The package is now standardized, and available to all libraries that have a dependency on the Microsoft dependency injection package.
 
